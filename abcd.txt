@@ -7,3 +7,6 @@ Fith line added
 Ok!!!!
 
 new line!!!!!!!!!!!!!!
+
+
+merged new line
